@@ -32,8 +32,8 @@ public class TwoPlayer {
 		return position;
 
 }
-
 	public static void main(String[] args) {
+	
 		int playerOnePosition = 0;
 		int playerTwoPosition = 0;
 		int player = PLAYER1;
@@ -80,9 +80,6 @@ public class TwoPlayer {
 		{
 			System.out.println("Player Two Wins");
 		}
-
-
 	}
 
 }
-
